@@ -1,7 +1,7 @@
 {
   "_format": "hh-sol-artifact-1",
-  "contractName": "FinTechBlockChain",
-  "sourceName": "contracts/FinTechBlockChain.sol",
+  "contractName": "CollegeNFT",
+  "sourceName": "contracts/CollegeNFT.sol",
   "abi": [
     {
       "inputs": [],
