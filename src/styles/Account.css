@@ -1,0 +1,21 @@
+.center {
+  display:flex;
+  justify-content:center; /* horizontally center */
+  align-items:center;    /* vertically center */
+}
+
+.photo {
+  height: 80px;
+  width: 80px;
+  display: 'flex';
+  justify-content:center;
+  align-items:center; 
+}
+
+.photo-small {
+  height: 40px;
+  width: 40px;
+  display: 'flex';
+  justify-content:center;
+  align-items:center; 
+}
