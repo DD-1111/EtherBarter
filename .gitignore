@@ -24,6 +24,7 @@ yarn-error.log*
 
 # workplace
 public/workspace.code-workspace
+src/utils/workspace.code-workspace
 node_modules
 .env
 coverage

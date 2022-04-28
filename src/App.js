@@ -2,6 +2,7 @@ import "./styles/App.css";
 import { useState, useEffect } from "react";
 import { ethers } from "ethers";
 import CollegeNFT from "./utils/CollegeNFT.json";
+import Dashboard from "./Dashboard";
 
 // Constants
 const CONTRACT_ADDRESS = "0x5FbDB2315678afecb367f032d93F642f64180aa3";
@@ -28,10 +29,7 @@ const App = () => {
 
 
   return (
-    <div>
-      CollegeNFT
-      <button onClick={createNFT}>button</button>
-    </div>
+    <Dashboard />
   )
 }
 
